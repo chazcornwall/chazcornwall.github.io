@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Chaz Cornwall: Trying To Keep Autonomous Systems Safe
 
 My research interests are uncertainty quantification, optimization, state estimation, path planning, and other topics related to GNC. However, I have not always known this :). As an undergraduate at Utah State, I was sure designing electronics for spacecraft was my future. After being involved the Get-Away-Special (GAS) team and working at the Space Dynamics Laboratory (SDL), I discovered my true love was software. I then shifted focus and got a job at Autonomous Solutions, Inc, a robotics firm in Mendon, UT working on perception software for mobile robots. This motivated a Master's degree in obstacle detection and state estimation for autonomous vehicles. 
 
@@ -6,7 +6,7 @@ Through all this shifting, I always cared a lot for the safety and integrity of 
 
 As a Yooper (this is what people are called in the Upper Peninsula), I got to work with many undergraduate students and participate in developing an autonomous vehicle for the GM/SAE AutoDrive Challenge II. When I started my PhD, I was planning to work in state estimation, building from my Master's degree. However, due to other opportunities in our lab, my advisor and I thought it best to apply my understanding of uncertainty and optimization to path planning. For my dissertation, I derived a new distribution for modeling path cost and applied the model towards faster modeling of path planners. By this time, I was starting to realize I loved working in robotics because the field applies uncertainty quantification and optimization. 
 
-After my PhD, I was fortunate to land a Air Force Science and Technology Fellowship (administered by the NRC) at the Air Force Institute of Technology (AFIT) in the Autonomy and Navigation Technology (ANT) Center. Here, I am working on understanding where conventional methods of uncertainty quantification break down in nonlinear, robust state estimation. This understanding will help guarantee integrity during GPS-denied aircraft navigation.  
+After my PhD, I was fortunate to land a Air Force Science and Technology Fellowship (administered by the NRC) at the Air Force Institute of Technology (AFIT) in the Autonomy and Navigation Technology (ANT) Center. Here, I am working on understanding where conventional methods of uncertainty quantification break down in nonlinear, robust state estimation. I am also starting to dive into uncertainty quantification for black-box (aka AI) systems. This understanding will help guarantee integrity during GPS-denied aircraft navigation.  
 
 You can use the [editor on GitHub](https://github.com/chazcornwall/chazcornwall.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
