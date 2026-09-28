@@ -1,4 +1,7 @@
-![](AUTODRIVE_KICKOFF_25_1587.jpg)
+
+<p align="center">
+  <img src="AUTODRIVE_KICKOFF_25_1587.jpg" width="200">
+</p>
 
 My experience in all facets of autonomy (perception, planning, and localization) as well as my understanding of UQ and optimization primes future research into safe, uncertainty-aware, integrity-constrained robotics. Preparation for this type of research stems from my unique (and ever-evolving) journey as a researcher...
 
