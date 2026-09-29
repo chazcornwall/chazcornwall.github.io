@@ -17,3 +17,11 @@ After my PhD, I was fortunate to land a Air Force Science and Technology Fellows
 
 
 ### Links to some projects
+
+[IEEE RAL - Can We Get There Faster: Tuning Sample-based Path Planners](https://github.com/chazcornwall/can_we_get_there_faster)
+
+[EE5531 Kalman Filter Module](https://github.com/chazcornwall/ee5531_state_estimation/tree/main)
+
+[Optimization Examples](https://github.com/chazcornwall/optimization/tree/main)
+
+[Software Stack for GM/SAE AutoDrive Challenge II](https://github.com/chazcornwall/car_ros/tree/main)
