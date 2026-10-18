@@ -1,6 +1,12 @@
 
 <p align="center">
-  <img src="AUTODRIVE_KICKOFF_25_1587.jpg" width="200">
+  <img src="AUTODRIVE_KICKOFF_25_1587.jpg" width="200"><br>
+  <a href="https://linkedin.com/in/chaz-cornwall-ph-d-a29954185">LinkedIn</a> &nbsp; · &nbsp;
+  <a href="https://scholar.google.com/citations?user=X3ht7bwAAAAJ&hl=en">Google Scholar</a> &nbsp; · &nbsp;
+  <a href="https://orcid.org/my-orcid?orcid=0009-0008-1728-9599">ORCID</a> &nbsp; · &nbsp;
+  <a href="https://github.com/chazcornwall">GitHub</a> &nbsp; · &nbsp;
+  <a href="mailto:chazcornwall@gmail.com">Email</a> &nbsp; · &nbsp;
+  <a href="{{ '/assets/files/cv.pdf' | relative_url }}">Curriculum Vitae</a>
 </p>
 
 My experience in all facets of autonomy (perception, planning, and localization) as well as my understanding of UQ and optimization primes future research into safe, uncertainty-aware, integrity-constrained robotics. Preparation for this type of research stems from my unique (and ever-evolving) journey as a researcher...
