@@ -9,7 +9,7 @@
   <a href="https://orcid.org/0009-0008-1728-9599">ORCID</a> &nbsp; · &nbsp;
   <a href="https://github.com/chazcornwall">GitHub</a> &nbsp; · &nbsp;
   <a href="mailto:chazcornwall@gmail.com">Email</a> &nbsp; · &nbsp;
-  <a href="{{ '/assets/files/cv.pdf' | relative_url }}">Curriculum Vitae</a>
+  <a href="chaz_cornwall_cv.pdf">Curriculum Vitae</a>
 </p>
 
 My experience in all facets of autonomy (perception, planning, and localization) as well as my understanding of safety, optimization, and UQ primes future research into trustworthy and integrity-constrained robotics. Since autonomous system safety is conditional on specific assumptions, without online validation of these assumptions, claims of safety are brittle in the real world. Preparation for this type of research stems from my unique (and ever-evolving) journey as a researcher...
