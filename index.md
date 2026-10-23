@@ -1,5 +1,5 @@
 
-<p align="center" style="padding-bottom: 20px;">
+<p align="center">
   <img src="AUTODRIVE_KICKOFF_25_1587.jpg" width="200">
 </p>
 
