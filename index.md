@@ -1,6 +1,9 @@
 
 <p align="center" style="padding-bottom: 20px;">
-  <img src="AUTODRIVE_KICKOFF_25_1587.jpg" width="200"><br>
+  <img src="AUTODRIVE_KICKOFF_25_1587.jpg" width="200">
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/chaz-cornwall-ph-d-a29954185">LinkedIn</a> &nbsp; · &nbsp;
   <a href="https://scholar.google.com/citations?user=X3ht7bwAAAAJ&hl=en">Google Scholar</a> &nbsp; · &nbsp;
   <a href="https://orcid.org/0009-0008-1728-9599">ORCID</a> &nbsp; · &nbsp;
@@ -20,6 +23,8 @@ As a Yooper (this is what people are called in the Upper Peninsula), I got to wo
 After my PhD, I was fortunate to land a Air Force Science and Technology Fellowship (administered by the NRC) at the Air Force Institute of Technology (AFIT) in the Autonomy and Navigation Technology (ANT) Center. Here, I am working on understanding where conventional methods of UQ and integrity break down in nonlinear, robust state estimation. I am also starting to dive into uncertainty quantification for black-box (aka AI) systems. This is bringing new insights regarding how autonomous systems can have awareness of their limitations, paving a way towards online validation and truly safe autonomous systems.
 
 ### Links to some projects
+
+[The Consistency of Symmetric Maximum Likelihood Estimators](https://github.com/chazcornwall/sym_mle_cov_consistency)
 
 [IEEE RAL - Can We Get There Faster: Tuning Sample-based Path Planners](https://github.com/chazcornwall/can_we_get_there_faster)
 
